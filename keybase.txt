@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/edenzik
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://www.edenzik.com
+  * I am edenzik (https://keybase.io/edenzik) on keybase.
+  * I have a public key with fingerprint 9B71 57E0 A3C5 11AD EF48  FE1F 7BA6 4057 7E61 BB6B
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01014a562bc63b52d9b474d5f58e8a6f79f67280a4cca8c1ec795042c22144c2057c0a",
+            "fingerprint": "9b7157e0a3c511adef48fe1f7ba640577e61bb6b",
+            "host": "keybase.io",
+            "key_id": "7ba640577e61bb6b",
+            "kid": "01014a562bc63b52d9b474d5f58e8a6f79f67280a4cca8c1ec795042c22144c2057c0a",
+            "uid": "5a1c020f379379d7e2fd79cd31030419",
+            "username": "edenzik"
+        },
+        "service": {
+            "hostname": "www.edenzik.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1448669689,
+    "expire_in": 157680000,
+    "prev": "0ccda9d805fb43ee651126261f02693636eddc105f92b4c4715489a86d53d73a",
+    "seqno": 7,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.49
+Comment: https://keybase.io/crypto
+
+yMIqAnicrVJbSFRBGF7zliuVprFviScEi2091znnbBb20A2NSKSruM6ZmbOdVs9Z
+d1fX3EyjsqjUKCp70KAorBdJQqSI7lQKUVEPFbFFKF0wL1AgWTZH7K3HhoFh/v/7
+vvnm//8H8xIdzoTY5aKt++DNQMLg3Y5ax5Zt45MxRrPwHsYbYwJk5iBVmIQjvoCB
+GS/DciwnQgnwGgKCJvFY1URZxJIuKUSBQJdVHci8wkIRIaggjiBZlViRRzzPiSLi
+WUlGLGTcjG6YfhIKhgwzQmVVTeYkmbBQQBLHQUx0UdEJp8saBCLlyARwmgY0Stxl
+hW0GNafBMPEYFo3Ri2/G3j/w/9l37YycBDnE8qwuyCrdWCa8jmUVYYFjBVbkVBsY
+JiETVhOKJpiYDUaAaXQzNFhnIGLX1f7ILCAajXpmQR5kVVN2MGRFLGRV0eSuSCTo
+tbmRPcEZMNF8szI+zTAxLSQl1JFQ2LBMxstRJIoYti51rgCgAkV1M6Q+aISIz7AR
+kgwUli77GVJnVwchDFWssJKuiQIhgDaBBzzgdJYHqgAEQDBGHE2rvCYikTZLVFSo
+ACwJWBbsuoRJjWkxXpnahH4qGTb8JozUhgjTeO9OeZIjwelISZ5jD5jDmZbxd+zU
+hNTp0ryWX+lllSOffzSPtK6avvRif1LPV3Mit7V44USFCw08Ph0+VMoM36sfvvHy
+2Ln8N4PLJtdlX1nZVbW6JXZ+eOhdQd/xxcsXJvvSU54MndmY5Pn4xbVpqYqXPCp7
+3V7Oded/Lyhqy/rYdzs1Z8S1vSnu6qmYSozHSw5eGy+BezNz835uKB3Gn6IHHlxy
+13g/nOtvq5l6diu99+yOhib96o/qhv7Y0afRlsB8ufhhs+dDxqvfZ/TDawfen9zZ
+eaprbIX/wvPs3ScWLbg4NRnIfJZVGJ/b7nS69Cacu41d0/it98jbzXdfdZak+SsL
+x8buvx3F7VPXu3PWT/4abe2IxzOzc0r+AMWsRDM=
+=1Srj
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/edenzik
+
+==================================================================
